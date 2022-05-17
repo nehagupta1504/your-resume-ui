@@ -1,0 +1,28 @@
+{
+  "name": "your-resume-ui",
+  "version": "1.0.0",
+  "description": "UI for resume builder",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehagupta1504/your-resume-ui.git"
+  },
+  "author": "Neha Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nehagupta1504/your-resume-ui/issues"
+  },
+  "homepage": "https://github.com/nehagupta1504/your-resume-ui#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssimport": "^7.0.0",
+    "gulp-sass": "^5.1.0",
+    "merge-stream": "^2.0.0",
+    "sass": "^1.51.0",
+    "sass-migrator": "^1.5.4"
+  }
+}
